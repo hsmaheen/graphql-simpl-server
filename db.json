@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John Doe",
+      "age": 10,
+      "vehicleId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Jane Doe",
+      "age": 25,
+      "vehicleId": 2
+    },
+    {
+      "id": 3,
+      "firstName": "Jack Bauer",
+      "age": 25,
+      "vehicleId": 1
+    },
+    {
+      "firstName": "Maheen",
+      "age": 28,
+      "vehicleId": "2",
+      "id": 4
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "name": "Merc",
+      "make": 1990
+    },
+    {
+      "id": 2,
+      "name": "Audi",
+      "make": 2005
+    }
+  ]
+}
