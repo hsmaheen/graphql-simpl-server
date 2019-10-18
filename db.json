@@ -23,18 +23,29 @@
       "age": 28,
       "vehicleId": "2",
       "id": 4
+    },
+    {
+      "firstName": "hafid",
+      "age": 25,
+      "vehicleId": "3",
+      "id": 6
     }
   ],
   "vehicles": [
     {
       "id": 1,
-      "name": "Merc",
+      "name": "Tesla",
       "make": 1990
     },
     {
       "id": 2,
       "name": "Audi",
       "make": 2005
+    },
+    {
+      "id": 3,
+      "name": "Ferrari",
+      "make": 2010
     }
   ]
 }
