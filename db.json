@@ -17,18 +17,6 @@
       "firstName": "Jack Bauer",
       "age": 25,
       "vehicleId": 1
-    },
-    {
-      "firstName": "Maheen",
-      "age": 28,
-      "vehicleId": "2",
-      "id": 4
-    },
-    {
-      "firstName": "hafid",
-      "age": 25,
-      "vehicleId": "3",
-      "id": 6
     }
   ],
   "vehicles": [
